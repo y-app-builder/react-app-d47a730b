@@ -23,7 +23,7 @@ const App: React.FC = () => {
         style={{
           padding: '10px 20px',
           fontSize: '16px',
-          backgroundColor: '#4CAF50',
+          backgroundColor: 'cyan',
           color: 'white',
           border: 'none',
           borderRadius: '4px',
